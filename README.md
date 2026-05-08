@@ -29,25 +29,6 @@
 
 ---
 
-## 🧰 Tech Stack
-**Frontend:** Next.js, React, TypeScript, Tailwind CSS, Radix UI, Framer Motion, Lucide  
-**Backend:** Next.js API Routes, Prisma ORM  
-**DB:** PostgreSQL (Supabase)  
-**Deploy:** Vercel
-
----
-
-## ⭐ Featured (pick my best stuff)
-
-- **DIGIMURA** — digital product + admin panel (private)
-- **nexus-point-checker** — auto-tracking nodes & points
-- **EVM-Wallet-Generator** — generate wallet (Python)
-- **humanity-auto-claim** — auto-claim tooling
-- **BillionsNetwork-Daily / OG-Faucet** — automation scripts
-- **wonton-bot / yescoin-bot** — bot automation
-
----
-
 ## 🐍 GitHub Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/mhdverel/mhdverel/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
